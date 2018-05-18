@@ -1,0 +1,14 @@
+{
+    "name": "onedrop/placeholders",
+    "type": "neos-plugin",
+    "description": "Add placeholders",
+    "license": "MIT",
+    "require": {
+        "neos/neos": "^3.0 || ^4.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Onedrop\\Placeholders\\": "Classes"
+        }
+    }
+}
